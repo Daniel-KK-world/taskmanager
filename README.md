@@ -101,9 +101,6 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 
 ✨ Author
 Daniel Kwabi
-🔗 Portfolio
-📫 Email
-🌐 LinkedIn
 
 📄 License
 MIT License — free to use, fork, and improve.
