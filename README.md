@@ -3,6 +3,24 @@
 A robust and scalable **Task Management REST API** built with **Spring Boot**, featuring full CRUD functionality for both **Tasks** and **Users**. This backend service follows clean architecture principles and uses an in-memory H2 database for rapid prototyping and testing.
 
 ---
+## Creating Users 
+<img width="883" height="516" alt="image" src="https://github.com/user-attachments/assets/e839813d-2fdb-493e-95aa-88b37f623cbb" />
+
+## Getting all users 
+<img width="882" height="537" alt="image" src="https://github.com/user-attachments/assets/489f740c-e082-4fb6-8019-e9d987b33185" />
+
+## Creating Tasks 
+<img width="870" height="584" alt="image" src="https://github.com/user-attachments/assets/87a05502-6dbc-476e-a553-82ea958e7e03" />
+
+## Geting all tasks 
+<img width="853" height="583" alt="image" src="https://github.com/user-attachments/assets/5bc74e4e-8aa2-4de3-92b3-464ad19218b8" />
+
+## UPDARE 
+<img width="851" height="352" alt="image" src="https://github.com/user-attachments/assets/ce569eb2-d648-409f-9234-582eb5cdf90a" />
+
+## DELETE 
+<img width="856" height="319" alt="image" src="https://github.com/user-attachments/assets/4970fd64-0322-460d-952f-5465ff84fddb" />
+
 
 ## ⚙️ Features
 
